@@ -1,0 +1,24 @@
+
+.root { 
+    -fx-accent: black;
+    -fx-focus-color: black;
+    -fx-base: black;
+    -fx-control-inner-background: black;
+    -fx-control-inner-background-alt: black;
+    -fx-font-size: 20;
+    -fx-font-style: italic;
+    -fx-font-family: monospace;
+}
+
+#enabler {
+    -fx-pref-width: 80px;
+    -fx-pref-height: 50px;
+}
+
+#slider {
+    -fx-accent: #1c1b1b;
+    -fx-focus-color: #1c1b1b;
+    -fx-base: #302f2f;
+    -fx-control-inner-background: #1c1b1b;
+    -fx-control-inner-background-alt: #1c1b1b;
+}

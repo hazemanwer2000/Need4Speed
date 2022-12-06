@@ -8,7 +8,7 @@ The GUI consists of three main components:
 
 ***Notes:***
 * The arrow keys control the direction of motion of the vehicle, and are *non-latching*.
-* The vehicle constantly accelerates, or decelerates, to its target speed, as long as a key is pressed, and the speed limit has not been reached yet.
+* The vehicle constantly accelerates, or decelerates, to its target speed, as long as a key is pressed, and the speed limit has not yet been reached.
 * Speed increases gradually, yet velocity (speed and direction) may change in zero-time. For example, when moving forward, then backwards.
 
-[🔗 *Click to view* ***Need4Speed*** *in live action* 🔗](https://www.youtube.com/watch?v=sc1wYeOnlsE)
+[🔗 *Click to view* ***Need4Speed*** *in live action*](https://www.youtube.com/watch?v=sc1wYeOnlsE)

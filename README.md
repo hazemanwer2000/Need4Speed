@@ -1,9 +1,9 @@
-## Need4Speed
-**Need4Speed** is an open-source JavaFX (Java 8) solution, controlling any RC vehicle with a serial interface.
+## *Need4Speed*
+This is an open-source JavaFX (Java 8) solution, controlling any RC vehicle with a serial interface.
 
 The GUI consists of three main components:
-* Speed limiter (Slider): Limits the maximum speed of the vehicle.
-* Lock (Button): Limits the maximum speed of the vehicle (ON/OFF).
+* Speed limiter (`Slider`): Limits the maximum speed of the vehicle.
+* Lock (`Button`): Limits the maximum speed of the vehicle (ON/OFF).
 * Gauge (From the [*Medusa*](https://github.com/HanSolo/medusa) library): Displays the current speed of the vehicle. 
 
 ***Notes:***
